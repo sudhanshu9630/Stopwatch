@@ -1,2 +1,3 @@
 # Stopwatch
-I create a stopwatch app. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript. Use css framework Bootstrap.
+A stopwatch app. 
+https://sudhanshu9630.github.io/Stopwatch/ tap hear for a quick preview of my project.
